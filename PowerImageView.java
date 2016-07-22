@@ -15,6 +15,9 @@ import android.util.TypedValue;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ImageView;
+/*
+ * 播放GIF动画控件
+ */
 
 public class PowerImageView extends ImageView implements OnClickListener {
 
